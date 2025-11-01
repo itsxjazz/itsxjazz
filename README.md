@@ -22,13 +22,17 @@
 ## Projetos em destaque
 - **Endless Runner 2D** - Jogo 2D de plataforma. 🎮 [Play](https://itsxjazz.itch.io/chicken-runaway) • [Repo](https://github.com/itsxjazz/endless-runner2D)  
 - **Dark Forest Hypothesis** - Jogo 2D de plataforma. 🎮 [Play](https://itsxjazz.itch.io/dark-forest-hypothesis) • [Repo](https://github.com/itsxjazz/space-shooter2D)  
-- **Player Demo** - Demonstração de movimentações de personagem 2D (platformer). 🎮 [Play](https://itsxjazz.itch.io/platformer-movement-unity-2d) • [Repo](https://github.com/itsxjazz/platformer-movement)
+- **Player Demo** - Demonstração de movimentações de personagem 2D. 🎮 [Play](https://itsxjazz.itch.io/platformer-movement-unity-2d) • [Repo](https://github.com/itsxjazz/platformer-movement)
 
 ---
 
 ## Tecnologias
 <p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxjazz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" height="170" />
+  <img 
+    alt="Top languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxjazz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800" 
+    height="170" 
+  />
 </p>
 
 ---
