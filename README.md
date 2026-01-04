@@ -30,7 +30,7 @@
 <p align="center">
   <img 
     alt="Top languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxjazz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsxjazz&layout=compact&theme=tokyonight" 
     height="170" 
   />
 </p>
