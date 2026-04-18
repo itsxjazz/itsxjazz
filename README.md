@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### **Full-Stack Web (MEAN Stack)**
 
@@ -38,14 +38,14 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
 | **Projeto** | **Descrição** | **Stacks** | **Links** |
 | :--- | :--- | :--- | :--- |
+| **finGo** | Planejador de viagens com orçamento inteligente, câmbio em tempo real, cálculo de CDI, mapa interativo, hospedagem e voos. | <img src="https://img.shields.io/badge/MEAN-Stack-800080" /> | [Link](https://usefingo.vercel.app/) \| [Repo](https://github.com/itsxjazz/travel-finance-planner) |
 | **Rick and Morty Battle** | Jogo de cartas com lógica de batalha (MD3), consumo de API e algoritmo de balanceamento de raridade (fairplay). | <img src="https://img.shields.io/badge/MEAN-Stack-800080" /> | [Play](https://rick-and-morty-battle.vercel.app/) \| [Repo](https://github.com/itsxjazz/rick-and-morty-battle) |
-| **Travel Finance Planner** | Gestão de viagens com orçamento inteligente (Amadeus), cotação de câmbio em tempo real e cálculo de CDB. | <img src="https://img.shields.io/badge/MEAN-Stack-800080" /> | [Link](https) [Repo](https://github.com/itsxjazz/travel-finance-planner) |
 | **Chicken Runaway** | Jogo endless runner 2D em pixel art com mecânicas de física, pulo duplo e sistema de pontuação. | <img src="https://img.shields.io/badge/Unity-C%23-blue" /> | [Play](https://itsxjazz.itch.io/chicken-runaway) \| [Repo](https://github.com/itsxjazz/endless-runner2D) |
 | **Dark Forest Hypothesis** | Space shooter top-down de sobrevivência inspirado no conceito da Floresta Negra da astrofísica. | <img src="https://img.shields.io/badge/Unity-C%23-blue" /> | [Play](https://itsxjazz.itch.io/dark-forest-hypothesis) \| [Repo](https://github.com/itsxjazz/space-shooter2D) |
 | **Platformer Demo** | Showcase técnico com mecânicas avançadas de movimentação 2D (dash, wall jump, escalada e pulo duplo). | <img src="https://img.shields.io/badge/Unity-C%23-blue" /> | [Play](https://itsxjazz.itch.io/platformer-movement-unity-2d) \| [Repo](https://github.com/itsxjazz/platformer-movement) | 
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img 
