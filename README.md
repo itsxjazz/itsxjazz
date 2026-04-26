@@ -65,6 +65,15 @@
 </p>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsxjazz/itsxjazz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsxjazz/itsxjazz/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itsxjazz/itsxjazz/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 <!-- 
   
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1d639be-a0da-4514-97bb-c99cc8d38786/dgo6rbh-1cbc5113-7fe3-4338-ba5f-33a9f2f38e18.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxZDYzOWJlLWEwZGEtNDUxNC05N2JiLWM5OWNjOGQzODc4NlwvZGdvNnJiaC0xY2JjNTExMy03ZmUzLTQzMzgtYmE1Zi0zM2E5ZjJmMzhlMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._Pj-YwXKfxXmIBct6NjBdXmXGSx3VQuqkE57euktHYw" 
