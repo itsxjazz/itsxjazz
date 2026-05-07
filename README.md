@@ -53,7 +53,7 @@
 </div>
 
 ---
-
+<!-- 
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -63,8 +63,7 @@
     height="170" 
   />
 </p>
-
----
+!-->
 
 <p align="center">
   <picture>
